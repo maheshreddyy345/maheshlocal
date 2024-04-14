@@ -1,4 +1,5 @@
 hello world
 nwdjkaSN
 Q,QDBHJadvb
-S
+Sclear
+git status
